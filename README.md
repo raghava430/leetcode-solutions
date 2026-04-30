@@ -11,6 +11,7 @@ My LeetCode solutions with automatic sync
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raghava430/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/raghava430/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/raghava430/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -19,6 +20,7 @@ My LeetCode solutions with automatic sync
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/raghava430/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/raghava430/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -36,4 +38,8 @@ My LeetCode solutions with automatic sync
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raghava430/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/raghava430/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
