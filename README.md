@@ -43,4 +43,8 @@ My LeetCode solutions with automatic sync
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raghava430/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/raghava430/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
