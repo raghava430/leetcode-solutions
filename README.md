@@ -48,4 +48,5 @@ My LeetCode solutions with automatic sync
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/raghava430/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/raghava430/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
