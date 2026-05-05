@@ -36,6 +36,7 @@ My LeetCode solutions with automatic sync
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/raghava430/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
+| [0021-merge-two-sorted-lists](https://github.com/raghava430/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ My LeetCode solutions with automatic sync
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raghava430/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/raghava430/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
