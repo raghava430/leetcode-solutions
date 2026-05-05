@@ -60,6 +60,7 @@ My LeetCode solutions with automatic sync
 | [0015-3sum](https://github.com/raghava430/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/raghava430/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/raghava430/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/raghava430/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +86,8 @@ My LeetCode solutions with automatic sync
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghava430/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/raghava430/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
