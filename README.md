@@ -56,6 +56,7 @@ My LeetCode solutions with automatic sync
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raghava430/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/raghava430/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,8 +97,17 @@ My LeetCode solutions with automatic sync
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raghava430/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/raghava430/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/raghava430/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/raghava430/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/raghava430/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/raghava430/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
