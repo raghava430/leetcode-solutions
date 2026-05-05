@@ -43,6 +43,7 @@ My LeetCode solutions with automatic sync
 | [0014-longest-common-prefix](https://github.com/raghava430/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/raghava430/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/raghava430/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/raghava430/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ My LeetCode solutions with automatic sync
 | [0011-container-with-most-water](https://github.com/raghava430/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/raghava430/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/raghava430/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/raghava430/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +80,7 @@ My LeetCode solutions with automatic sync
 | ------- | ------- |
 | [0015-3sum](https://github.com/raghava430/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/raghava430/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/raghava430/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
