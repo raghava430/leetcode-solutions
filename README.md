@@ -81,6 +81,7 @@ My LeetCode solutions with automatic sync
 | [0009-palindrome-number](https://github.com/raghava430/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/raghava430/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/raghava430/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/raghava430/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +125,8 @@ My LeetCode solutions with automatic sync
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghava430/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/raghava430/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
