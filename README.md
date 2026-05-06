@@ -10,6 +10,7 @@ My LeetCode solutions with automatic sync
 | [0012-integer-to-roman](https://github.com/raghava430/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/raghava430/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghava430/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/raghava430/leetcode-solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,10 +26,12 @@ My LeetCode solutions with automatic sync
 | [0020-valid-parentheses](https://github.com/raghava430/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/raghava430/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghava430/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/raghava430/leetcode-solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raghava430/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/raghava430/leetcode-solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
