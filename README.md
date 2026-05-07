@@ -68,6 +68,7 @@ My LeetCode solutions with automatic sync
 | [0036-valid-sudoku](https://github.com/raghava430/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/raghava430/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/raghava430/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ My LeetCode solutions with automatic sync
 | [0022-generate-parentheses](https://github.com/raghava430/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/raghava430/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/raghava430/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
