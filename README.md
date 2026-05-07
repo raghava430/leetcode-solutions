@@ -11,6 +11,7 @@ My LeetCode solutions with automatic sync
 | [0013-roman-to-integer](https://github.com/raghava430/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raghava430/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raghava430/leetcode-solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0036-valid-sudoku](https://github.com/raghava430/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ My LeetCode solutions with automatic sync
 | [0033-search-in-rotated-sorted-array](https://github.com/raghava430/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raghava430/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/raghava430/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/raghava430/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +145,8 @@ My LeetCode solutions with automatic sync
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/raghava430/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/raghava430/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
