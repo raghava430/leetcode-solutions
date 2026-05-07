@@ -30,6 +30,7 @@ My LeetCode solutions with automatic sync
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghava430/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/raghava430/leetcode-solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/raghava430/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0038-count-and-say](https://github.com/raghava430/leetcode-solutions/tree/main/0038-count-and-say/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
