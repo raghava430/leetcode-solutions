@@ -80,6 +80,7 @@ My LeetCode solutions with automatic sync
 | [0042-trapping-rain-water](https://github.com/raghava430/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/raghava430/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@ My LeetCode solutions with automatic sync
 | [0015-3sum](https://github.com/raghava430/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/raghava430/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/raghava430/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@ My LeetCode solutions with automatic sync
 | [0039-combination-sum](https://github.com/raghava430/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/raghava430/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
