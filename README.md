@@ -33,6 +33,7 @@ My LeetCode solutions with automatic sync
 | [0032-longest-valid-parentheses](https://github.com/raghava430/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/raghava430/leetcode-solutions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/raghava430/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/raghava430/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ My LeetCode solutions with automatic sync
 | [0022-generate-parentheses](https://github.com/raghava430/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/raghava430/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/raghava430/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/raghava430/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +55,7 @@ My LeetCode solutions with automatic sync
 | [0021-merge-two-sorted-lists](https://github.com/raghava430/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/raghava430/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/raghava430/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0044-wildcard-matching](https://github.com/raghava430/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +116,7 @@ My LeetCode solutions with automatic sync
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/raghava430/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/raghava430/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
