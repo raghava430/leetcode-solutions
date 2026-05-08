@@ -48,6 +48,7 @@ My LeetCode solutions with automatic sync
 | [0032-longest-valid-parentheses](https://github.com/raghava430/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/raghava430/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/raghava430/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ My LeetCode solutions with automatic sync
 | [0040-combination-sum-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/raghava430/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/raghava430/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +119,7 @@ My LeetCode solutions with automatic sync
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/raghava430/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/raghava430/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
