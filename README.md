@@ -51,6 +51,7 @@ My LeetCode solutions with automatic sync
 | [0042-trapping-rain-water](https://github.com/raghava430/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/raghava430/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/raghava430/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ My LeetCode solutions with automatic sync
 | [0047-permutations-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/raghava430/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/raghava430/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/raghava430/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +100,7 @@ My LeetCode solutions with automatic sync
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raghava430/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/raghava430/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/raghava430/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
