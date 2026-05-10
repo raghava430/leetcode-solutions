@@ -85,6 +85,7 @@ My LeetCode solutions with automatic sync
 | [0046-permutations](https://github.com/raghava430/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/raghava430/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/raghava430/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ My LeetCode solutions with automatic sync
 | [0040-combination-sum-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/raghava430/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/raghava430/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
