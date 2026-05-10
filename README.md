@@ -59,6 +59,7 @@ My LeetCode solutions with automatic sync
 | [0024-swap-nodes-in-pairs](https://github.com/raghava430/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/raghava430/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/raghava430/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0050-powx-n](https://github.com/raghava430/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ My LeetCode solutions with automatic sync
 | [0013-roman-to-integer](https://github.com/raghava430/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/raghava430/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/raghava430/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0050-powx-n](https://github.com/raghava430/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
