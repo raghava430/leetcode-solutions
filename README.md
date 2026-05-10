@@ -151,6 +151,7 @@ My LeetCode solutions with automatic sync
 | [0046-permutations](https://github.com/raghava430/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/raghava430/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0052-n-queens-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
