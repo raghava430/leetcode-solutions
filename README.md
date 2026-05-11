@@ -123,6 +123,7 @@ My LeetCode solutions with automatic sync
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghava430/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/raghava430/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/raghava430/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/raghava430/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +175,7 @@ My LeetCode solutions with automatic sync
 | [0023-merge-k-sorted-lists](https://github.com/raghava430/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/raghava430/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/raghava430/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/raghava430/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
