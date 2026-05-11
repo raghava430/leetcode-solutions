@@ -36,6 +36,7 @@ My LeetCode solutions with automatic sync
 | [0043-multiply-strings](https://github.com/raghava430/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/raghava430/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/raghava430/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/raghava430/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
