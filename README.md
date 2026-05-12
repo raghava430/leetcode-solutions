@@ -54,6 +54,7 @@ My LeetCode solutions with automatic sync
 | [0045-jump-game-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/raghava430/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/raghava430/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/raghava430/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +136,7 @@ My LeetCode solutions with automatic sync
 | [0043-multiply-strings](https://github.com/raghava430/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/raghava430/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/raghava430/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
+| [0062-unique-paths](https://github.com/raghava430/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,4 +217,8 @@ My LeetCode solutions with automatic sync
 | [0043-multiply-strings](https://github.com/raghava430/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/raghava430/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/raghava430/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
