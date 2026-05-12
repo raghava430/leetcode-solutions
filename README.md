@@ -55,6 +55,7 @@ My LeetCode solutions with automatic sync
 | [0053-maximum-subarray](https://github.com/raghava430/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/raghava430/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/raghava430/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ My LeetCode solutions with automatic sync
 | [0056-merge-intervals](https://github.com/raghava430/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/raghava430/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0063-unique-paths-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +209,7 @@ My LeetCode solutions with automatic sync
 | [0037-sudoku-solver](https://github.com/raghava430/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/raghava430/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0063-unique-paths-ii](https://github.com/raghava430/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
